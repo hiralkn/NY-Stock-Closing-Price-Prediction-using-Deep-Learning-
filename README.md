@@ -1,2 +1,3 @@
 # NY-Stock-Closing-Price-Prediction-using-Deep-Learning-
 Stock Closing Prices Prediction using GRU algorithm , TensorFlow 2.0 and Keras
+This small project uses NewYork stock data and filters YAHOO data from it. The dataset prices-split-adjusted.csv is available on kaggle. Deep learning algorithm - GRU is used for model building and predictions. This project is implemented in python using TensorFlow 2.0 and keras. The main steps of this project are: Load the dataset , filter YAHOO data , explore YAHOO data , clean YAHOO data , fill missing values , visualize YAHOO data , split the data , feature scaling , create dataset , build the model , evaluate the model.
